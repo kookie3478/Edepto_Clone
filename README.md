@@ -1,6 +1,6 @@
 # edepto_app
 
-A new Flutter project.
+A new Flutter project. This is basically a clone of the Edepto Learning platform available on the Play Store. Made using Dart and Flutter SDK.
 
 ## Getting Started
 
